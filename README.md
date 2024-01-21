@@ -12,10 +12,10 @@
   <a href="https://github.com/abdul-salam111">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-  <a href="https://github.com/abdul-salam111">
+  <a href="https://www.linkedin.com/in/abdulsalamas/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <a href="https://www.linkedin.com/in/abdulsalamas/">
+   <a href="https://www.instagram.com/sallo_bangash/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
    <a href="https://web.facebook.com/profile.php?id=100064026879899">
