@@ -1,10 +1,9 @@
  <h1 align="center">Hi 👋, I'm Abdul Salam</h1>
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Backend
+- 🔭 I am Flutter Developer and NodeJs Developer
 - 💬 Ask me anything about Flutter 
-- 📫 How to reach me: abdulsalam.tech1@gmail.com
-- ⚡ Fun fact: I'm comming to teen
+- 📫 How to reach me: abdulsalam.0302@gmail.com
+- ⚡ Fun fact: I'm comming to teen 😜
   
 ### Connect with me:
 <div id="badges">
