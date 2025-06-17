@@ -29,8 +29,5 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
-
-
 <br>
 ⭐️ From [Abdul Salam](https://github.com/abdul-salam111)
